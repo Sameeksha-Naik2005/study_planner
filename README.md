@@ -146,4 +146,4 @@ client/
 - For final-year project demos, keep demo mode available and connect Firebase for real authentication and persistence.
 
 
-Active Link:- https://studyplanner-bay.vercel.app/app/settings
+Active Link:- https://studyplanner-bay.vercel.app/
