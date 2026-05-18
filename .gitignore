@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+client/node_modules/
+client/dist/
+client/.env
+client/.env.local
+smart-ai-study-planner/node_modules/
+smart-ai-study-planner/dist/
+.firebase/
+.firebaserc
+.DS_Store
+*.log
