@@ -144,3 +144,6 @@ client/
 - Browser reminders require user permission and only fire while the app is open.
 - The AI behavior is intentionally free and deterministic, using transparent scheduling algorithms rather than paid model APIs.
 - For final-year project demos, keep demo mode available and connect Firebase for real authentication and persistence.
+
+
+Active Link:- https://studyplanner-bay.vercel.app/app/settings
