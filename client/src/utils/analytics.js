@@ -21,7 +21,7 @@ export function getProductivityScore(tasks, sessions, subjects) {
   const recentTasks = tasks.filter((task) => recentDates.includes(task.date));
   const completedRate = recentTasks.length
     ? recentTasks.filter((task) => task.status === 'done').length / recentTasks.length
-    : 0.35;
+    : 0;
   const focusMinutes = sessions
     .filter((session) => recentDates.includes(session.date))
     .reduce((sum, session) => sum + session.minutes, 0);
